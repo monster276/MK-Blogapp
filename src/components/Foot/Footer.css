@@ -1,0 +1,18 @@
+footer {
+  margin-top: 100px;
+  padding: 20px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+}
+footer img {
+  height: 50px;
+  width: auto;
+  border-radius: 50%;
+}
+.topIcon {
+  margin-right: 20px;
+  font-size: 25px;
+}
